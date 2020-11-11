@@ -3,7 +3,7 @@
 
 <h1 align="Center">  Welcome to Randomize - MUJ <img src="https://slackmojis.com/emojis/10796-among_us_party/download" width="30"/> </h1>
 
-<p>
+<p align = "center">
   
   [<img alt="Whatsapp" src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://google.com)
 
